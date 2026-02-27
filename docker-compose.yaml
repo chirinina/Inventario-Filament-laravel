@@ -1,0 +1,33 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres:latest
+    container_name: postgres-database
+
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: filament
+
+    ports:
+      - 5432:5432
+
+    volumes:
+      - ./postgres:/var/lib/postgresql/data
+
+  mysql:
+    image: mysql:latest
+    container_name: mysql-database
+
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: filament
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: password
+
+    ports:
+      - 3306:3306
+
+    volumes:
+      - ./mysql:/var/lib/mysql
