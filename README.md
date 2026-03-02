@@ -1,14 +1,24 @@
+<div align="center" style="background-color:#0f1729; padding: 10px 8px; border-radius: 4px 90px 90px;">
 
-<p align="center">
   <a href="https://laravel.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
+    <img 
+      src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" 
+      width="260" 
+      alt="Laravel Logo"
+      style="margin: 20px;"
+    />
   </a>
-  <a href="https://laravel.com" target="_blank">
-    <img src="https://mintcdn.com/filament-34a8cf01/08pxkrBLnmtNM7ng/logo/dark.svg?fit=max&auto=format&n=08pxkrBLnmtNM7ng&q=85&s=0e2f592992019b62c6bd2231f4fad26f" width="400" alt="Laravel Logo">
-  </a>
-</p>
 
-**Laravel 12 + Filament 4**
+  <a href="https://filamentphp.com" target="_blank">
+    <img 
+      src="https://mintcdn.com/filament-34a8cf01/08pxkrBLnmtNM7ng/logo/dark.svg?fit=max&auto=format&n=08pxkrBLnmtNM7ng&q=85&s=0e2f592992019b62c6bd2231f4fad26f" 
+      width="260" 
+      alt="Filament Logo"
+      style="margin: 20px;"
+    />
+  </a>
+</div>
+
 
 Plataforma de comercio electrónico desarrollada con arquitectura moderna, enfocada en escalabilidad, seguridad y gestión administrativa avanzada.
 
@@ -182,4 +192,3 @@ Este proyecto está diseñado bajo buenas prácticas de desarrollo, con una estr
 * Implementación en producción
 * Integración futura con APIs externas
 * Adaptación a entornos corporativos
-
