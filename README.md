@@ -13,7 +13,7 @@ Plataforma de comercio electrónico desarrollada con arquitectura moderna, enfoc
 
 ---
 
-## 🚀 Características Principales
+## Características Principales
 
 *  Autenticación y autorización basada en roles
 *  Gestión de usuarios y permisos
