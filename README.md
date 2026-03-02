@@ -3,9 +3,10 @@
   <a href="https://laravel.com" target="_blank">
     <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
   </a>
+  <a href="https://laravel.com" target="_blank">
+    <img src="https://mintcdn.com/filament-34a8cf01/08pxkrBLnmtNM7ng/logo/dark.svg?fit=max&auto=format&n=08pxkrBLnmtNM7ng&q=85&s=0e2f592992019b62c6bd2231f4fad26f" width="400" alt="Laravel Logo">
+  </a>
 </p>
-
-# 🛒 Sistema Inventario
 
 **Laravel 12 + Filament 4**
 
@@ -13,7 +14,7 @@ Plataforma de comercio electrónico desarrollada con arquitectura moderna, enfoc
 
 ---
 
-## Características Principales
+##  Características Principales
 
 *  Autenticación y autorización basada en roles
 *  Gestión de usuarios y permisos
@@ -181,3 +182,4 @@ Este proyecto está diseñado bajo buenas prácticas de desarrollo, con una estr
 * Implementación en producción
 * Integración futura con APIs externas
 * Adaptación a entornos corporativos
+
